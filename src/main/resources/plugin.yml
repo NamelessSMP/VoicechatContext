@@ -1,0 +1,7 @@
+name: VoicechatContext
+version: '${version}'
+main: ru.thecatrix.voicechatcontext.VoicechatContext
+description: Adds LuckPerms context for Simple Voice Chat
+author: TheCatRiX
+api-version: 1.19
+depend: [LuckPerms, voicechat]
